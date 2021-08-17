@@ -1,0 +1,30 @@
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\12. System Programming\02 Processes\Processes\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\12. System Programming\02 Processes\Processes\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\12. System Programming\02 Processes\Processes\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\12. System Programming\02 Processes\Processes\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\12. System Programming\02 Processes\Processes\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\12. System Programming\02 Processes\Processes\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\12. System Programming\02 Processes\Processes\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\12. System Programming\02 Processes\Processes\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\12. System Programming\02 Processes\Processes\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\12. System Programming\02 Processes\Processes\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\12. System Programming\02 Processes\Processes\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\12. System Programming\02 Processes\Processes\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\12. System Programming\02 Processes\Processes\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\12. System Programming\02 Processes\Processes\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\12. System Programming\02 Processes\Processes\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Igor\source\repos\SystemProgrammingLesson1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Igor\source\repos\SystemProgrammingLesson1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Igor\source\repos\SystemProgrammingLesson1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Igor\source\repos\SystemProgrammingLesson1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\Igor\source\repos\SystemProgrammingLesson1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Igor\source\repos\SystemProgrammingLesson1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Igor\source\repos\SystemProgrammingLesson1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Igor\source\repos\SystemProgrammingLesson1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Igor\source\repos\SystemProgrammingLesson1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Igor\source\repos\SystemProgrammingLesson1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Igor\source\repos\SystemProgrammingLesson1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Igor\source\repos\SystemProgrammingLesson1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Igor\source\repos\SystemProgrammingLesson1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Igor\source\repos\SystemProgrammingLesson1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Igor\source\repos\SystemProgrammingLesson1\WpfApp1\obj\Debug\WpfApp1.pdb

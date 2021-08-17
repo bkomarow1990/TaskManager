@@ -1,0 +1,7 @@
+C:\Users\Igor\source\repos\SystemProgrammingLesson1\SystemProgrammingLesson1\bin\Debug\SystemProgrammingLesson1.exe.config
+C:\Users\Igor\source\repos\SystemProgrammingLesson1\SystemProgrammingLesson1\bin\Debug\SystemProgrammingLesson1.exe
+C:\Users\Igor\source\repos\SystemProgrammingLesson1\SystemProgrammingLesson1\bin\Debug\SystemProgrammingLesson1.pdb
+C:\Users\Igor\source\repos\SystemProgrammingLesson1\SystemProgrammingLesson1\obj\Debug\SystemProgrammingLesson1.csproj.AssemblyReference.cache
+C:\Users\Igor\source\repos\SystemProgrammingLesson1\SystemProgrammingLesson1\obj\Debug\SystemProgrammingLesson1.csproj.CoreCompileInputs.cache
+C:\Users\Igor\source\repos\SystemProgrammingLesson1\SystemProgrammingLesson1\obj\Debug\SystemProgrammingLesson1.exe
+C:\Users\Igor\source\repos\SystemProgrammingLesson1\SystemProgrammingLesson1\obj\Debug\SystemProgrammingLesson1.pdb
